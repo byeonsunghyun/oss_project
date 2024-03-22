@@ -31,8 +31,3 @@ Git clone test2
 ![Img Alt Text](Donga.jpg)
 
 > 살고자하면 죽을 것이요. 죽고자 하면 살 것이다. - 이순신
-
-<ol>A
-<ol>B
-<ul>C
-<ul>D
