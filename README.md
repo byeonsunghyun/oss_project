@@ -28,6 +28,11 @@ Git clone test2
 # 동아대학교
 동아대학교 홈페이지는 [여기로](https://www.donga.ac.kr/kor/Main.do)
 
-[![Img Alt Text](Donga.jpg)]
+![Img Alt Text](Donga.jpg)
 
 > 살고자하면 죽을 것이요. 죽고자 하면 살 것이다. - 이순신
+
+<ol>A
+<ol>B
+<ul>C
+<ul>D
