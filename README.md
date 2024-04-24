@@ -15,13 +15,20 @@ Git clone test2
 
 <h2>2024/03/22</h2>
 
-```
+
 **bold**
 - Item1
 - Item2
 - Item3
 *italics*
 [GitHub](http://guides.github.com/features/mastering-markdown)
+```
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout << "Hello World"
+}
 ```
 
 동아대학교
